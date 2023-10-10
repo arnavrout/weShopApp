@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weShopApp/static/css/main.33dc3580.css",
+    "main.js": "/weShopApp/static/js/main.b087cde9.js",
+    "static/js/787.65fc3a9d.chunk.js": "/weShopApp/static/js/787.65fc3a9d.chunk.js",
+    "static/media/emptyBag.png": "/weShopApp/static/media/emptyBag.bddb0782007cb2a33b95.png",
+    "static/media/cartIcon.png": "/weShopApp/static/media/cartIcon.d5da859072a10c0985d0.png",
+    "index.html": "/weShopApp/index.html",
+    "main.33dc3580.css.map": "/weShopApp/static/css/main.33dc3580.css.map",
+    "main.b087cde9.js.map": "/weShopApp/static/js/main.b087cde9.js.map",
+    "787.65fc3a9d.chunk.js.map": "/weShopApp/static/js/787.65fc3a9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33dc3580.css",
+    "static/js/main.b087cde9.js"
+  ]
+}
